@@ -17,3 +17,6 @@ Face detection을 이용한 아기 안전 카메라
 ## System Flow
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/120351050-7b5acd80-c33a-11eb-82e6-003a9f1a2d34.png"></p>
 <p align="center">figure 1. System Flow</p>
+
+### Result
+[Youtube](https://youtu.be/rhbhsJqi1iY)
